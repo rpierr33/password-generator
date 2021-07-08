@@ -9,5 +9,4 @@ Password Generator  mostly using DOM & If statements.
 
 https://rpierr33.github.io/password-generator/
 
-## Contribution
-Made with Yours Trutly
+Made by Yours Trutly
