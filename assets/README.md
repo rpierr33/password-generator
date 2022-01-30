@@ -7,7 +7,7 @@
 
 <br>
 # Screenshot
-<img width="1121" alt="Screen Shot 2021-09-09 at 2 53 32 PM" src="https://user-images.githubusercontent.com/35232283/132745937-c7b079b1-9022-4ee4-9da4-a27b51914d68.png">
+<img width="1121" alt="Screen Shot 2021-09-09 at 2 53 32 PM" src="https://github.com/rpierr33/password-generator/blob/main/assets/img/Screen%20Shot%202022-01-29%20at%206.48.19%20PM.png">
 
 
 
