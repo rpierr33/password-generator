@@ -64,6 +64,52 @@ function generatePassword(){
         password = password.toString()+charPick.toString();
         console.log(password);
       }
+
+
+
+  // if uppercase and numbers are confirmed
+  /* if(num === true && whichCase === true){
+    for(var i = 0; i <charLength; i++){
+
+      charPick = specials[Math.floor(Math.random()*specials.length)];
+      console.log(charPick);
+      password = password.toString()+charPick.toString();
+      console.log(password);
+    }
+  }  
+//if uppercase but no numbers
+    else if(num != true && whichCase === true){
+      for(var i = 0; i <charLength; i++){
+
+      charPick = upperChars[Math.floor(Math.random()*upperChars.length)];
+      console.log(charPick);
+      password = password.toString()+charPick.toString();
+      console.log(password);
+
+    }
+  }
+// numbers no uppercase
+    else if(num === true && whichCase != true){
+      for(var i = 0; i <charLength; i++){
+
+        charPick = characterNum[Math.floor(Math.random()*characterNum.length)];
+        console.log(charPick);
+        password = password.toString()+charPick.toString();
+        console.log(password);       
+      }
+
+    }
+    else if(num != true && whichCase != true){
+      for(var i = 0; i <charLength; i++){
+
+        charPick = characters[Math.floor(Math.random()*characters.length)];
+        console.log(charPick);
+        password = password.toString()+charPick.toString();
+        console.log(password);
+
+
+  } 
+    }
+    */
     return password;
 }
-
